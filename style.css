@@ -1,7 +1,18 @@
 body {
-    background-color: #E6E6FA;
     text-align: center;
     font-family: Arial, sans-serif;
+}
+
+.home-page {
+    background-color: #E6E6FA;
+}
+
+.contact-page {
+    background-color: #FFF8DC;
+}
+
+.gallery-page {
+    background-color: #DFF5E1;
 }
 
 #main-title {
@@ -14,11 +25,13 @@ body {
 
 .text {
     font-size: 18px;
+    color: #333333;
 }
 
 .cat-photo {
-    width: 500px;
+    width: 400px;
     border-radius: 15px;
+    margin-top: 15px;
 }
 
 a {
@@ -29,4 +42,8 @@ a {
 
 a:hover {
     color: hotpink;
+}
+
+hr {
+    width: 50%;
 }
