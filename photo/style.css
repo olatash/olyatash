@@ -1,0 +1,32 @@
+body {
+    background-color: #E6E6FA;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#main-title {
+    color: #6A0DAD;
+}
+
+.section-title {
+    color: #8B5FBF;
+}
+
+.text {
+    font-size: 18px;
+}
+
+.cat-photo {
+    width: 500px;
+    border-radius: 15px;
+}
+
+a {
+    color: #6A0DAD;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: hotpink;
+}
